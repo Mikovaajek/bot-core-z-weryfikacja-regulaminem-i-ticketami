@@ -1,0 +1,14 @@
+{
+  "name": "bot-core",
+  "version": "0.0.1",
+  "description": "ezzez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikovaajek#9698",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
